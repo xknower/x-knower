@@ -1,0 +1,18 @@
+tools
+
+source-code
+
+code
+
+case
+
+books
+
+# documents or books of pdf are stored in cloud disk or local disk
+*.pdf
+
+*.exe
+
+*.mp3
+
+*.mp4
